@@ -1,6 +1,7 @@
 //============================================================================
 // Name : cookie-crush.cpp
 // Author : Sibt ul Hussain
+// Solution By : Usaid Raza
 // Version :
 // Copyright : (c) Reserved
 // Description : Basic 2D game of Cookie Crush...
@@ -671,4 +672,5 @@ ReadWords("words_alpha.txt", dictionary);
     dictionary= NULL;    
 }
 #endif /* */
+
 
